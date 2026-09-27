@@ -101,6 +101,21 @@ However, the annual numbers fluctuated during this period, reaching 38,303 in 20
 Visualizations
 
 The project includes visualizations showing:
+### Overall Homelessness by Year
+
+![Overall Homelessness by Year](./overall-homelessness-by-year.png)
+
+### Homeless Veterans by Year
+
+![Homeless Veterans by Year](./homeless-veterans-by-year.png)
+
+### Homeless Youth by Year
+
+![Homeless Youth by Year](./homeless-youth-by-year.png)
+
+### Top 10 Locations by Overall Homelessness
+
+![Top 10 Locations by Overall Homelessness](./top-10-locations-overall-homelessness.png)
 
 Overall Homelessness by Year
 Homeless Veterans by Year
